@@ -1,0 +1,1 @@
+This project is a web-based tool that allows users to generate custom QR codes in real-time. Users can input any text, select a desired size, and instantly see their generated QR code. The application leverages the goqr.me API to create high-quality QR codes, making it a versatile and user-friendly solution for anyone needing quick and customizable QR code generation.
